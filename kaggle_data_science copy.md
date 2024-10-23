@@ -2,7 +2,7 @@
 | Index | Name                                                                        | Done |
 | ----- | --------------------------------------------------------------------------- | ---- |
 | 1     | Predicting LoL Wins with TensorFlow                                         | ✅    |
-| 2     | Predicting City Houses With Scikit-learn                                    |      |
+| 2     | Predicting City Houses With Scikit-learn                                    | ✅    |
 | 3     | Handwritten Digit Recognition Using TensorFlow Datasets                     |      |
 | 4     | Using PCA to Understand College Admissions                                  |      |
 | 5     | Analyzing Diamond Price Data                                                |      |
