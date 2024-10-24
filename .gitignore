@@ -657,4 +657,6 @@ tags
 # Persistent undo
 [._]*.un~
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,pycharm,intellij+all,intellij+iml,intellij,pycharm+iml,pycharm+all,git,python,vim,obsidians:wq
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
