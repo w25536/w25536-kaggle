@@ -501,7 +501,6 @@
 ### [Analyzing Diamond Price Data - Data Every Day #005](https://www.youtube.com/watch?v=jF1-xBzXAXA "Analyzing Diamond Price Data - Data Every Day #005")
 
 ### [Using PCA to Understand College Admissions - Data Every Day #004](https://www.youtube.com/watch?v=RXondyynoGY "Using PCA to Understand College Admissions - Data Every Day #004")
-
 ### [Handwritten Digit Recognition Using TensorFlow Datasets - Data Every Day #003](https://www.youtube.com/watch?v=cxEdY3wi3bI "Handwritten Digit Recognition Using TensorFlow Datasets - Data Every Day #003")
 
 ### [Predicting City Houses With Scikit-learn - Data Every Day #002](https://www.youtube.com/watch?v=1aWYj5lxiHY "Predicting City Houses With Scikit-learn - Data Every Day #002")
