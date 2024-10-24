@@ -5,7 +5,7 @@
 | 2     | Predicting City Houses With Scikit-learn                                    | ✅     |                                                    |
 | 3     | Handwritten Digit Recognition Using TensorFlow Datasets                     |       |                                                    |
 | 4     | Using PCA to Understand College Admissions                                  | ✅<br> | [PCA](https://www.youtube.com/watch?v=QGLH-FUafLI) |
-| 5     | Analyzing Diamond Price Data                                                |       |                                                    |
+| 5     | Analyzing Diamond Price Data                                                | ✅     |                                                    |
 | 6     | Predicting Game Outcomes for CS:GO                                          |       |                                                    |
 | 7     | Working With the Classic Iris Dataset                                       |       |                                                    |
 | 8     | Building a Spam Classifier From Scratch                                     |       |                                                    |
