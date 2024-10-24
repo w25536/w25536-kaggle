@@ -1,3 +1,29 @@
+
+# pre-commit
+
+
+1. nvim pre-commit
+
+
+```bash
+#!/bin/sh
+
+# Run Black on all Python files
+black .
+
+# Add the formatted files back to the staging area
+git add .
+```
+
+
+```bash
+
+chmod +x .git/hooks/pre-commit
+
+rm .git/hooks/pre-commit
+```
+
+
 # kaggle
 
 # Data_project_practice
